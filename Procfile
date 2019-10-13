@@ -1,1 +1,1 @@
-worker: node fivem.js
+worker:node fivem.js
